@@ -1,16 +1,12 @@
-# MyBBAWS Infrastructure
+#### MyBBAWS Infrastructure
 
-#                                   
-#  NOTE: Please see the fixed video clip in the Video folder! 
-#                                                             
-
-## Overview
+#### Overview
 
 This is a **complete AWS CloudFormation template** (along with additional required source codes
 residing in the public GitHub repository https://github.com/satishtamilan/mybb-awscloudformation-multiaz) for
 running the MyBB application on a scalable, highly-available and secure infrastructure using the Aurora DB.
 
-### Running the stack
+#### Running the stack
 
 To run this project in an AWS Account do the following:
 
