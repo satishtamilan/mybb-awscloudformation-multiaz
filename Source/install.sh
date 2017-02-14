@@ -2,7 +2,7 @@
 
 #
 # MyBB AMI installation script invoked by AWS CloudFormation template.
-# (C) Valeriu Paloş <valeriupalos@gmail.com>
+# 
 #
 # Apache2, Php5x and required dependencies for MyBB are expected to be
 # properly added to the system by this point.
