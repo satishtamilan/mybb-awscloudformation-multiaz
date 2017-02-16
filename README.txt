@@ -18,10 +18,3 @@ To run this project in an AWS Account do the following:
     - Username: admin
     - Password: 1234
 
-- If you need any other access please [contact me](mailto:valeriupalos@gmail.com)!
-
-## See the detailed documentation!
-
-This file is only an excerpt of the documentation found in "Design/Documentation.md/pdf".
-
-Thank you!
